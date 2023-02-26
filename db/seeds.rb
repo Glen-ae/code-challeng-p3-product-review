@@ -31,6 +31,4 @@ review4 = Review.create(star_rating: 5, comment: "Product is quality", product_i
 
 puts "Seeding done!"
 Footer
-© 2023 GitHub, Inc.
-Footer navigation
 
